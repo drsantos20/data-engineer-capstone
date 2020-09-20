@@ -1,4 +1,4 @@
-# Udacity Data-Engineering Nanodegree Capstone
+# Udacity Data Engineering Nanodegree Capstone
 Capstone project from Udacity Data Engineering Nanodegree program.      
 In this project, multiple data sources is pulled in, and then, processed by ETL (extract, transform and load) in order to generate insights and answer analysis questions.    
 
