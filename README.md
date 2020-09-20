@@ -1,6 +1,6 @@
-# Udacity-Data-Engineering-Nanodegree-Capstone
-This project is the capstone project from Udacity Data Engineering Nanodegree program.      
-In this project, data from multiple sources is pulled in, processed by ETL (extract, transform and load) in order to generate insights and answer analysis questions.    
+# Udacity Data-Engineering Nanodegree Capstone
+Capstone project from Udacity Data Engineering Nanodegree program.      
+In this project, multiple data sources is pulled in, and then, processed by ETL (extract, transform and load) in order to generate insights and answer analysis questions.    
 
 #### Files
 - Capstone Project.ipynb   
@@ -19,4 +19,4 @@ In this project, data from multiple sources is pulled in, processed by ETL (extr
   Original demographic data. 
 
 ##### Author
-Daniel Santos (github: drsantos20)
+- Daniel Santos (github: drsantos20)
